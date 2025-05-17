@@ -6,9 +6,7 @@ This project performs real-time **vehicle and license plate detection** using a 
 
 ## 📽️ Demo
 
-<p align="center">
-  <img src="assets/demo.gif" width="100%">
-</p>
+<img src="det_10.JPG" width="600">
 
 ---
 
@@ -51,6 +49,4 @@ This project performs real-time **vehicle and license plate detection** using a 
 ├── recognized_plates.csv                # CSV log of detections
 └── README.md
 ```
-## Results:
 
-<img src="det_10.JPG" width="600">
