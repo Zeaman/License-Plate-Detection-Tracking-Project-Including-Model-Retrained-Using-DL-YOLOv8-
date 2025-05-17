@@ -41,15 +41,12 @@ This project performs real-time **vehicle and license plate detection** using a 
 
 ```bash
 📂 license-plate-detector/
-├── yolov8_custom_license_plate.pt       # Your trained YOLOv8 plate model
-├── main.py                              # Main entry script
+├── anpr_retrian_yolo.pt       # Your trained YOLOv8 plate model
+├── main_final.py                        # Main entry script
 ├── sort/
 │   ├── sort.py                          # SORT tracking module
-├── utils/
-│   ├── drawing.py                       # Drawing functions for fancy boxes
-│   ├── interpolation.py                 # Optional interpolation
+├── utils.py
 ├── input/                               # Input video files
 ├── output/                              # Annotated output videos
-├── detections.csv                       # CSV log of detections
-├── requirements.txt
+├── recognized_plates.csv                # CSV log of detections
 └── README.md
