@@ -1,4 +1,4 @@
-# # 🚗 License Plate Detection & Tracking with YOLOv8 + OCR
+# 🚗 License Plate Detection & Tracking with YOLOv8 + OCR
 
 This project performs real-time **vehicle and license plate detection** using a **custom-trained YOLOv8 model**, tracks them using **SORT**, extracts license plate text using **EasyOCR**, and outputs **annotated videos** with **CSV logs**.
 
